@@ -8,7 +8,7 @@
 </head>
 <body>
     <?php
-        echo Oi
+        echo "Oi"
     ?>
 </body>
 </html>
